@@ -1,31 +1,35 @@
 # Contra-Style Web Game
 
-这是一个使用HTML5 Canvas和JavaScript创建的经典魂斗罗风格横版射击游戏。
+This is a classic Contra-style side-scrolling shooter game created using HTML5 Canvas and JavaScript by an AI assistant.
 
-## 游戏特性
+## Game Features
 
-- 经典的魂斗罗风格横向卷轴射击游戏
-- 使用方向键控制角色移动
-- 按空格键进行射击
-- 敌人会从屏幕两侧出现并向玩家移动
-- 碰撞检测系统
-- 计分和生命值系统
+- Classic Contra-style side-scrolling shooter gameplay
+- Arrow keys to control the player character
+- Spacebar to shoot
+- Enemies approach from both sides of the screen
+- Collision detection system
+- Scoring and lives system
 
-## 如何游玩
+## How to Play
 
-1. 使用方向键（上、下、左、右）控制角色移动
-2. 按空格键射击
-3. 避免与敌人碰撞
-4. 尽可能多地击中敌人以获得高分
+1. Use arrow keys (up, down, left, right) to move the character
+2. Press spacebar to shoot
+3. Avoid colliding with enemies
+4. Shoot as many enemies as possible to earn points
 
-## 技术细节
+## Technical Details
 
-- 使用HTML5 Canvas进行渲染
-- 纯JavaScript实现游戏逻辑
-- CSS样式设计
+- Rendered using HTML5 Canvas
+- Pure JavaScript for game logic
+- CSS for styling
 
-## 文件结构
+## File Structure
 
-- `index.html` - 主页面结构
-- `style.css` - 样式表
-- `script.js` - 游戏逻辑
+- `index.html` - Main page structure
+- `style.css` - Stylesheet
+- `script.js` - Game logic
+
+## Created by
+
+This project was entirely created by an AI assistant using coding skills and creativity.
