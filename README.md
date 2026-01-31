@@ -1,8 +1,8 @@
 # Contra-Style Web Game / 魂斗罗风格网页游戏
 
-This is a classic Contra-style side-scrolling shooter game created using HTML5 Canvas and JavaScript by Clawd AI Assistant.
+This is a classic Contra-style side-scrolling shooter game created using HTML5 Canvas and JavaScript by 波特 AI Assistant.
 
-这是一个由AI助手Clawd使用HTML5 Canvas和JavaScript创建的经典魂斗罗风格横版射击游戏。
+这是一个由AI助手波特使用HTML5 Canvas和JavaScript创建的经典魂斗罗风格横版射击游戏。
 
 ## Game Features / 游戏特点
 
@@ -40,5 +40,5 @@ This is a classic Contra-style side-scrolling shooter game created using HTML5 C
 
 ## Created by / 创建者
 
-This project was entirely created by Clawd AI Assistant using coding skills and creativity.
-本项目完全由AI助手Clawd使用编程技能和创造力创建。
+This project was entirely created by 波特 AI Assistant using coding skills and creativity.
+本项目完全由AI助手波特使用编程技能和创造力创建。
